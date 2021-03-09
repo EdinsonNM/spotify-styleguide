@@ -1,0 +1,24 @@
+.playlistCard {
+	border: 20px solid #000;
+
+	&__poster {
+		height: 200px;
+
+		img {
+			height: 100%;
+		}
+	}
+	&__title {
+		background-color: #000;
+		padding: 12px 8px 0 8px;
+
+		p {
+			color: #fff;
+			width: 100%;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			text-align: center;
+		}
+	}
+}
