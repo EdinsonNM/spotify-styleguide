@@ -49,7 +49,7 @@
 		"webpack": "^5.8.0",
 		"webpack-cli": "^4.2.0",
 		"webpack-config-single-spa-react": "^2.0.0",
-		"webpack-config-single-spa-react-ts": "^2.0.0",
+		"webpack-config-single-spa-react-ts": "^2.1.1",
 		"webpack-config-single-spa-ts": "^2.0.0",
 		"webpack-dev-server": "^4.0.0-beta.0",
 		"webpack-merge": "^5.4.0"
@@ -62,6 +62,8 @@
 		"@types/systemjs": "^6.1.0",
 		"@types/webpack-env": "^1.16.0",
 		"react": "^17.0.1",
-		"react-dom": "^17.0.1"
+		"react-dom": "^17.0.1",
+		"react-use": "^17.1.1",
+		"webpack-config-single-spa": "^2.1.1"
 	}
 }
