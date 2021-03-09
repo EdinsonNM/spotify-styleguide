@@ -3,3 +3,4 @@ export * from "./components/full-screen-loader/full-screen-loader";
 export * from "./components/card/card";
 // export { default as Logo } from "./components/icons/logo";
 export * from "./components/icons";
+export { default as Textfield } from "./components/textfield";
